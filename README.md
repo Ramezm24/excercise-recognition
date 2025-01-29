@@ -1,0 +1,1 @@
+the code imported is the fin al code of the project where we already collected,cleaned and features were extracted include all the preprocessing were needed,also we split data the data into train and test.
